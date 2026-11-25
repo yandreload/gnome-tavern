@@ -1,0 +1,15 @@
+$ gnokey maketx call -pkgpath gno.land/r/g1x7gechxs30vum6u5mwsg4xkv2m7g2kkas7vzj6/tavern -func BuyDrink -args "Gnome Stout" -gas-fee 15000ugnot -gas-wanted 15000000 -chainid dev -remote http://127.0.0.1:26657 patron2
+Enter password.
+("Enjoy your Gnome Stout! Tab total: 50.000000 ALE." string)
+
+
+OK!
+GAS WANTED: 15000000
+GAS USED:   10941262
+HEIGHT:     11
+STORAGE DELTA:  566 bytes
+STORAGE FEE:    56600ugnot
+TOTAL TX COST:  71600ugnot
+EVENTS:     [{"type":"Transfer","attrs":[{"key":"token","value":"gno.land/r/g1x7gechxs30vum6u5mwsg4xkv2m7g2kkas7vzj6/tavern.ALE.0000000"},{"key":"from","value":"g1dtdm0va2hahsw7htsm0veyh844ks5hys4exv3d"},{"key":"to","value":"g1x7gechxs30vum6u5mwsg4xkv2m7g2kkas7vzj6"},{"key":"value","value":"50000000"}],"pkg_path":"gno.land/p/nt/grc20/v0"},{"bytes_delta":566,"fee_delta":{"denom":"ugnot","amount":56600},"pkg_path":"gno.land/r/g1x7gechxs30vum6u5mwsg4xkv2m7g2kkas7vzj6/tavern"}]
+INFO:       
+TX HASH:    EZ/4EYN+EQlcKDDDNKLBWRsVmHzMwTxKvM/RRM2DpOg=

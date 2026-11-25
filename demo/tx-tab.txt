@@ -1,0 +1,3 @@
+$ gnokey query vm/qeval -data "gno.land/r/g1x7gechxs30vum6u5mwsg4xkv2m7g2kkas7vzj6/tavern.TabOf(address(\"g1dtdm0va2hahsw7htsm0veyh844ks5hys4exv3d\"))"
+height: 0
+data: ("Tab total: 50.000000 ALE\n- Gnome Stout x1\n" string)

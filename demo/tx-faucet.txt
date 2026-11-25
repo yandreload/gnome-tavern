@@ -1,0 +1,15 @@
+$ gnokey maketx call -pkgpath gno.land/r/g1x7gechxs30vum6u5mwsg4xkv2m7g2kkas7vzj6/tavern -func Faucet -gas-fee 10000ugnot -gas-wanted 10000000 -chainid dev -remote http://127.0.0.1:26657 patron2
+Enter password.
+(100000000 int64)
+
+
+OK!
+GAS WANTED: 10000000
+GAS USED:   6739049
+HEIGHT:     9
+STORAGE DELTA:  2754 bytes
+STORAGE FEE:    275400ugnot
+TOTAL TX COST:  285400ugnot
+EVENTS:     [{"type":"Transfer","attrs":[{"key":"token","value":"gno.land/r/g1x7gechxs30vum6u5mwsg4xkv2m7g2kkas7vzj6/tavern.ALE.0000000"},{"key":"from","value":""},{"key":"to","value":"g1dtdm0va2hahsw7htsm0veyh844ks5hys4exv3d"},{"key":"value","value":"100000000"}],"pkg_path":"gno.land/p/nt/grc20/v0"},{"bytes_delta":2754,"fee_delta":{"denom":"ugnot","amount":275400},"pkg_path":"gno.land/r/g1x7gechxs30vum6u5mwsg4xkv2m7g2kkas7vzj6/tavern"}]
+INFO:       
+TX HASH:    FBEigCZCqF922CA1VRcsnIfHSPQ/ZE4RS5AVV5XUO24=
